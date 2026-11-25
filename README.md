@@ -4,7 +4,7 @@ A one-time snapshot of Milwaukee Tool sales, checked Wednesday, Nov 25, 2026 (Am
 
 **Live site:** https://sbezner.github.io/milwaukee-black-friday-2026/
 
-The page lists 260 deals in a single scrolling results list, like a store search page. Each row has a product photo (251 of 260 deals; nine Home Depot exclusive kits and bit sets still use a placeholder because those product pages block automated image fetches), the sale price, the regular price when we had it, and a button to the store. Search by tool name, model, category, or store. Filter by category or store on the left (on a phone, open Filters). Prices change, so confirm the live price on the store page before you buy.
+The page lists 260 deals in a single scrolling results list, like a store search page. Each row has a product photo (260 of 260 deals), the sale price, the regular price when we had it, and a button to the store. Search by tool name, model, category, or store. Filter by category or store on the left (on a phone, open Filters). Prices change, so confirm the live price on the store page before you buy.
 
 Stores on this snapshot:
 
